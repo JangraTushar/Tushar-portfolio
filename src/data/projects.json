@@ -1,0 +1,53 @@
+[
+  {
+    "id": "agronomy-chatbot",
+    "name": "Agronomy RAG Chatbot",
+    "description": "An agriculture-focused AI chatbot that uses Retrieval-Augmented Generation to deliver context-aware answers from a domain-specific agronomy knowledge base.",
+    "detailedDescription": "AURA is a domain-specific agronomy chatbot designed to assist users with agriculture-related queries through a Retrieval-Augmented Generation pipeline. The system uses structured JSON knowledge files, semantic search, and ChromaDB as a persistent vector database to retrieve relevant agricultural context before generating responses. Its modular Python-based architecture includes components for app flow, retrieval logic, configuration management, and domain knowledge handling, making it a strong portfolio project for practical AI application development.",
+    "technologies": ["Python", "RAG", "ChromaDB", "JSON", "Semantic Search", "Vector Database"],
+    "metrics": "Domain-Specific Query Handling, Context-Aware Responses, Persistent Vector Retrieval",
+    "githubUrl": "https://github.com/JangraTushar/AURA_CHATBOT_TUSHAR_JANGRA",
+    "demoUrl": "",
+    "image": "https://img.freepik.com/free-vector/cute-bot-say-users-hello-chatbot-greets-online-consultation_80328-195.jpg?semt=ais_hybrid&w=740&q=80",
+    "features": [
+      "Built an agriculture-focused chatbot using Retrieval-Augmented Generation for domain-specific question answering.",
+      "Uses structured JSON datasets as the core knowledge base for agronomy and farm-related information retrieval.",
+      "Implements semantic search with ChromaDB to store and retrieve contextually relevant vector embeddings.",
+      "Designed with a modular Python architecture including app logic, retrieval pipeline, and configuration components."
+    ]
+  },
+  {
+    "id": "wafer-fault-detection",
+    "name": "Silicon plate fault detection using machine learning",
+    "description": "An end-to-end machine learning system for detecting faulty semiconductor wafer sensors using automated data ingestion, preprocessing, model training, and prediction workflows.",
+    "detailedDescription": "This project is a complete machine learning pipeline built to identify faulty wafer sensor readings in semiconductor manufacturing data. It covers the full workflow from MongoDB-based data ingestion and artifact creation to data transformation, model training, evaluation, and prediction deployment. The system uses Scikit-learn and XGBoost for classification tasks and provides a Flask-based interface for uploading CSV files and generating prediction outputs, making it a practical end-to-end production-style ML project.",
+    "technologies": ["Python", "Scikit-learn", "XGBoost", "MongoDB", "Flask", "Pandas", "NumPy"],
+    "metrics": "End-to-End ML Pipeline, Automated Training Workflow, CSV-Based Fault Prediction Interface",
+    "githubUrl": "https://github.com/JangraTushar/sensor_project",
+    "demoUrl": "",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80",
+    "features": [
+      "Built an end-to-end fault detection pipeline for semiconductor wafer sensor data.",
+      "Implemented data ingestion from MongoDB followed by preprocessing, transformation, and artifact generation.",
+      "Trained and evaluated machine learning classification models including XGBoost and Scikit-learn-based estimators.",
+      "Developed a Flask-based web interface for CSV upload and prediction file generation."
+    ]
+  },
+  {
+    "id": "license-number-plate-detection",
+    "name": "Real-Time Number Plate Detection",
+    "description": "A real-time computer vision system that detects, highlights, and saves vehicle number plates from a live webcam feed using OpenCV and Haar Cascade Classifier.",
+    "detailedDescription": "This project is a real-time license number plate detection system developed using Python and OpenCV. It captures live video through a webcam, processes frames for plate detection using a Haar Cascade classifier, and highlights detected number plates on screen. The system also supports saving the detected plate region as an image, making it a practical computer vision project that demonstrates image preprocessing, object detection, and real-time frame analysis.",
+    "technologies": ["Python", "OpenCV", "Haar Cascade Classifier", "Computer Vision", "NumPy"],
+    "metrics": "Real-Time Plate Detection, Live Webcam Processing, Automatic Plate Region Saving",
+    "githubUrl": "https://github.com/JangraTushar/Number_plate_detection",
+    "demoUrl": "",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
+    "features": [
+      "Built a real-time number plate detection system using OpenCV and Haar Cascade Classifier.",
+      "Processed live webcam frames to detect and highlight vehicle license plates.",
+      "Implemented image capture functionality to save detected number plate regions.",
+      "Applied grayscale preprocessing and area-based filtering to improve detection reliability."
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "category": "AI / ML",
+    "skills": [
+      { "name": "Generative AI & LLMs", "level": 75, "icon": "Cpu" },
+      { "name": "Deep Learning & Neural Networks", "level": 80, "icon": "Brain" },
+      { "name": "Natural Language Processing (NLP)", "level": 80, "icon": "MessageSquareText" },
+      { "name": "Computer Vision", "level": 70, "icon": "Eye" },
+      { "name": "Machine Learning (Supervised/Unsupervised)", "level": 90, "icon": "Sparkles" },
+      { "name": "LangChain & LangGraph", "level": 90, "icon": "Workflow" },
+      { "name": "HuggingFace Ecosystem", "level": 90, "icon": "Smile" }
+    ]
+  },
+  {
+    "category": "Programming Languages",
+    "skills": [
+      { "name": "Python", "level": 90, "icon": "Terminal" },
+      { "name": "SQL (Structured Query Language)", "level": 90, "icon": "Database" },
+      { "name": "C++", "level": 70, "icon": "Code" },
+      { "name": "Java", "level": 70, "icon": "FileCode" }
+    ]
+  },
+  {
+    "category": "Data Science",
+    "skills": [
+      { "name": "Statistical Analysis & Hypothesis Testing", "level": 90, "icon": "Activity" },
+      { "name": "Pandas & NumPy", "level": 95, "icon": "Binary" },
+      { "name": "Matplotlib & Seaborn", "level": 90, "icon": "BarChart3" },
+      { "name": "Power BI & Tableau", "level": 60, "icon": "PieChart" }
+    ]
+  },
+  {
+    "category": "Web Development",
+    "skills": [
+      { "name": "HTML5 / CSS3", "level": 92, "icon": "Globe" }
+    ]
+  },
+  {
+    "category": "Databases",
+    "skills": [
+      { "name": "PostgreSQL", "level": 80, "icon": "Database" },
+      { "name": "MongoDB (NoSQL Document Store)", "level": 80, "icon": "Server" },
+      { "name": "MySQL", "level": 90, "icon": "Table" }
+    ]
+  },
+  {
+    "category": "Tools",
+    "skills": [
+      { "name": "Git & GitHub Enterprise", "level": 85, "icon": "GitBranch" },
+      { "name": "Docker & Containerization", "level": 80, "icon": "Package" },
+      { "name": "VS Code & Debugging Environments", "level": 70, "icon": "Laptop" },
+      { "name": "Postman & API Architecture", "level": 70, "icon": "Send" }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cert-aws",
+    "name": "AWS Python & Artificial Intelligence Bootcamp",
+    "organization": "Amazon Web Services (AWS)",
+    "date": "September 2025",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80",
+    "credentialUrl": "https://drive.google.com/file/d/1WqkGhdm2NjIHmydvLO2Dp6emCBKNTRyr/view?usp=drivesdk"
+  },
+  {
+    "id": "cert-python-udemy",
+    "name": "Python programmming",
+    "organization": "Udemy",
+    "date": "January 2024",
+    "image": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&w=800&q=80",
+    "credentialUrl": "https://drive.google.com/file/d/1afK12lfd-HKWsWouHnATZjy3hx9r7PFW/view?usp=drivesdk"
+  },
+  {
+    "id": "cert-data-science",
+    "name": "Data Science with Generative AI",
+    "organization": "PW Skills",
+    "date": "Jan 2025",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+    "credentialUrl": "https://drive.google.com/file/d/1u14s5cYQmpof3cjyh2qvkX25lqhx-uTL/view?usp=drivesdk"
+  }
+]

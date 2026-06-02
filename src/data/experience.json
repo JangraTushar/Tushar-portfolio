@@ -1,0 +1,57 @@
+[
+  {
+    "id": "exp-research-intern",
+    "type": "Research Experience",
+    "role": "Deep Learning Research Intern",
+    "organization": "Advanced Cognitive Systems Research Lab",
+    "period": "Jan 2026 - Present",
+    "location": "New Delhi, India",
+    "description": [
+      "Assisted in drafting optimization frameworks for multi-billion parameter model pre-training steps, leading to a 12% reduced memory footprint.",
+      "Conducted detailed empirical research in Retrieval-Augmented Generation (RAG) context compression and state-preservation techniques.",
+      "Co-authored research blueprints analyzing attention convergence patterns in high-contrast visual models (ViT)."
+    ],
+    "keySkills": ["PyTorch", "Transformers", "NLP", "RAG Systems", "Vector Indexes"]
+  },
+  {
+    "id": "exp-ml-engineer-freelance",
+    "type": "Freelancing",
+    "role": "Lead Machine Learning Solutions Architect",
+    "organization": "Independent Technical Consultant (Upwork & TopCoder)",
+    "period": "Jun 2024 - Dec 2025",
+    "location": "Remote / Globe",
+    "description": [
+      "Engineered automated semantic parsing pipelines for 10+ multinational e-commerce portfolios, enabling instant client search suggestions with extreme accuracy.",
+      "Configured lightweight, edge-runnable Object Detection APIs using YOLOv8, deployed via Docker containers onto remote industrial camera sensors.",
+      "Maintained 100% Client Satisfaction Score by delivering on-time, fully documented statistical modeling systems."
+    ],
+    "keySkills": ["FastAPI", "Computer Vision", "Docker", "XGBoost", "MySQL"]
+  },
+  {
+    "id": "exp-ai-training",
+    "type": "Training",
+    "role": "Advanced AI/ML Specialist Program",
+    "organization": "Elite Artificial Intelligence Academy",
+    "period": "Nov 2023 - May 2024",
+    "location": "Bengaluru, India",
+    "description": [
+      "Completed rigorous immersive training focused on hyperparameter tuning, neural backpropagation, learning rate schedulers, and structural model compression.",
+      "Engineered peer-reviewed capstone project modeling complex credit default probabilities over 10 million simulated customer nodes.",
+      "Achieved Top-1% ranking in final technical examination spanning advanced multi-variable calculus, linear algebra, and data engineering."
+    ],
+    "keySkills": ["Statistical Analysis", "TensorFlow", "Pandas", "Scikit-Learn"]
+  },
+  {
+    "id": "exp-workshop-speaker",
+    "type": "Workshops",
+    "role": "Lead Architect & Technical Speaker",
+    "organization": "Annual LLMs In Production Summit",
+    "period": "Sep 2024",
+    "location": "Delhi Tech Meetup",
+    "description": [
+      "Designed and presented a 4-hour hands-on instruction session detailing prompt injection vectors and stateful Multi-Agent conversation tracking via LangGraph.",
+      "Curated modular companion repository showing clear setups for 400+ attendees to configure local Llama3 instances with zero API friction."
+    ],
+    "keySkills": ["LangChain", "Open-Source LLMs", "Secure API Gateway"]
+  }
+]
